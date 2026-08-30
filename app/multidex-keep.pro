@@ -1,0 +1,3 @@
+-keep class com.geolock.app.GeoLockApplication { *; }
+-keep class com.geolock.app.Hilt_GeoLockApplication { *; }
+-keep class dagger.hilt.android.internal.managers.** { *; }

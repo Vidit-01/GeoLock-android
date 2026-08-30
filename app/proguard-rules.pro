@@ -1,0 +1,4 @@
+-keep class com.geolock.app.GeoLockApplication { *; }
+-keep class com.geolock.app.Hilt_GeoLockApplication { *; }
+-keep class com.geolock.app.** { *; }
+-keep class dagger.hilt.** { *; }

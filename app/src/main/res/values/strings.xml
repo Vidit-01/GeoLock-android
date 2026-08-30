@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoLock</string>
+    <string name="accessibility_service_label">GeoLock app lock</string>
+    <string name="accessibility_service_description">GeoLock watches which app is in the foreground so it can show a lock screen when you open an app that should be blocked inside one of your zones. It does not read your messages, passwords, or screen content.</string>
+    <string name="protection_notification_channel">Protection status</string>
+    <string name="alert_notification_channel">Protection alerts</string>
+    <string name="protection_active_title">GeoLock protection is active</string>
+    <string name="protection_degraded_title">GeoLock protection is inactive</string>
+    <string name="device_admin_description">Prevents GeoLock from being uninstalled until you turn this admin off. Open Settings still requires your unlock key.</string>
+</resources>
